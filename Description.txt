@@ -1,0 +1,8 @@
+﻿Group: Sample discount amount rate providers
+FriendlyName: Sample discount amount rate providers
+SystemName: DiscountAmount.Sample
+Version: 1.00
+SupportedVersions: 4.20
+Author: grandnode team
+DisplayOrder: 1
+FileName: Grand.Plugin.DiscountAmount.Sample.dll
